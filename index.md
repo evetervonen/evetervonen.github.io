@@ -8,10 +8,9 @@ Vartijakortti / Järjestyksenvalvojakortti / Työturvallisuuskortti / Hätäensi
 
 ## Koulutus
 
-**Turvallisuusalan perustutkinto** @ [Codecademy](https://www.codecademy.com/) _(Completed Oct 2022)_ <br>
-A full-stack online course accompanied by mentors and a thriving community of developers.<br>
+**Turvallisuusalan perustutkinto** @Tredu, Sammonkatu Tampere _(Valmistuminen 12/2022)_ <br>
+Toimia vartiha työssä.<br>
 Some topics covered include (but not limited to):
-  - Intermediate JavaScript
-  - Building web apps in React framework
-  - Building an API with Express.js
+  - Turvallisuusvalvojan palvelutehtävissä toimiminen
+  - Uhkatilanteisiin varautuminen ja tilannehallinta
 <br><br>
